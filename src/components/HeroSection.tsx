@@ -17,6 +17,7 @@ const HeroSection = ({
   slogan = "Vẻ đẹp mộc mạc của miền quê Quảng Nam",
   ctaText = "Khám phá thêm",
   backgroundImage = "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-04/z5359616206266_b3201c63c8f2cba0d7dce52dc9b7b817.jpg",
+  // You can also use a relative URL like "/cd.webp" if needed
   onExploreClick = () => {
     const locationSection = document.getElementById("location-section");
     if (locationSection) {

@@ -19,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <Script src="https://app.tempolabs.ai/icons/file-extension-items/seti-ui/image.svg" />
+      <Script src="https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-04/z5359616206266_b3201c63c8f2cba0d7dce52dc9b7b817.jpg" />
       <body className={inter.className}>
         {children}
         <TempoInit />
